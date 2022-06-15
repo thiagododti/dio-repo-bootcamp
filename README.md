@@ -1,2 +1,2 @@
-# dio-repo-bootcamp
+# Repositório Bootcamp DIO
 Repositório para o desafio de bootcamp da DIO
