@@ -1,0 +1,27 @@
+SSH
+
+criação -> ssh-keygen -t ed25519 -C email_git_hub
+
+Iniciar -> eval $(ssh-agent -s)
+
+Adicionar chave -> ssh-add caminho_chave_privada
+
+### Comandos básicos
+
+it init = inicializa o repositorio
+
+git status = exibe o status do repositório
+
+git add (nome arquivo) = adiciona um arquivo para staged para ser commitado
+
+git add * = adiciona todos os arquivos modificados para staged para ser commitado
+
+git status = exibe os status dos arquivos
+
+git commit -m "descrição do commit" = commita os arquivos
+
+git clone endereço_repositório = clona um repositório
+
+git push = envia os arquivos para o repositório
+
+git pull = baixa os arquivos do repositório
