@@ -1,0 +1,9 @@
+https://www.flaticon.com/br/ <- icones
+
+https://unsplash.com/ <- imagens
+
+https://fontawesome.com/ <- icones
+
+https://www.invertexto.com/ <- utilitários gerais
+
+https://developer.mozilla.org/pt-BR/ <- Estudos de HTML CSS Javascript

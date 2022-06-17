@@ -1,0 +1,7 @@
+.header <- busca uma classe
+
+#header <- busca um ID
+
+margin auto <- ajuda alinharmos os conteudos horizontalmente
+
+max-width <- delimita o maximo que bloco pode alcançar e assim que atingido ele começa a se ajustar
