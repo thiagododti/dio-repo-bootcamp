@@ -1,5 +1,5 @@
 # display: flex -> define um container flexivel
-###* inline ou block
+### inline ou block
 
 # order -> define a ordem que os filhos se posicionaram dentro do container flex
 
