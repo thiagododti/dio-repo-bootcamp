@@ -12,4 +12,3 @@
 
 // soma(1, 3); chamada da função 
 
-console.log("ola");
