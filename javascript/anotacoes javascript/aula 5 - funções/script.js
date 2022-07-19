@@ -31,8 +31,9 @@ var funcao2 = function () {
 
 funcao();
 funcao2();
+//----------------------------------------------------------------------------------------
 
-// arrow function
+// ARROW FUNCTION
 // são expressoes de sintaxe curta, e serão sempre anonimas.
 
 //sintaxe
@@ -42,6 +43,33 @@ var funcao = () => {
 // a chamada dela se dá pelo nome da variavel que foi atribuida mais ();
 funcao();
 
+// DIMINUIÇÃO PARA UMA ARROW FUNCTION
+
+/*
+const helloWorld = function(){
+    return "Hello World";
+}
+diminui para
+
+const helloWorld = () => {
+    return "Hello World";
+}
+diminui para
+
+const helloWorld = () => "Hello World";
+
+// caso exista apenas uma linha, pode dispensar as chaves e o return.
+// caso exista apenas um parametro, pode dispensar os parênteses.
+
+const soma = (a, b) => a + b;
+soma(4,6);
+
+const soma = a => a;
+soma(4);
+
+
+
+// --------------------------------------------------------------------------------------
 //funcoes aritmeticas
 
 // Number() - converte valores em numeros.
